@@ -2,7 +2,7 @@
 //  main.m
 //  Checklists
 //
-//  Created by Lien Nguyen on 11/16/13.
+//  Created by Lienne Nguyen on 11/16/13.
 //  Copyright (c) 2013 Lien Nguyen. All rights reserved.
 //
 
